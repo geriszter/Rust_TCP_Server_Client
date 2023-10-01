@@ -1,0 +1,11 @@
+C:\Users\geriszter\Documents\RustPS\Networking\client\target\debug\deps\socket2-9ebe164913e34182.rmeta: C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\lib.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sockaddr.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\socket.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sockref.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sys\windows.rs
+
+C:\Users\geriszter\Documents\RustPS\Networking\client\target\debug\deps\libsocket2-9ebe164913e34182.rlib: C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\lib.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sockaddr.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\socket.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sockref.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sys\windows.rs
+
+C:\Users\geriszter\Documents\RustPS\Networking\client\target\debug\deps\socket2-9ebe164913e34182.d: C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\lib.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sockaddr.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\socket.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sockref.rs C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sys\windows.rs
+
+C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\lib.rs:
+C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sockaddr.rs:
+C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\socket.rs:
+C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sockref.rs:
+C:\Users\geriszter\.cargo\registry\src\github.com-1ecc6299db9ec823\socket2-0.5.4\src\sys\windows.rs:
